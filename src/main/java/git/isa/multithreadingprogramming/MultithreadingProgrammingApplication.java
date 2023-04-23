@@ -1,8 +1,11 @@
-package com.example.multithreadingprogramming;
+package git.isa.multithreadingprogramming;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author cx
+ */
 @SpringBootApplication
 public class MultithreadingProgrammingApplication {
 
