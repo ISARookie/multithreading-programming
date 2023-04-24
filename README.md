@@ -12,7 +12,7 @@ build:    构造工具的或者外部依赖的改动，例如webpack，npm
 refactor: 代码重构时使用
 revert:   执行git revert打印的message
 
-# 暂不使用type
+# 其他type
 test:     添加测试或者修改现有测试
 perf:     提高性能的改动
 ci:       与CI（持续集成服务）有关的改动
